@@ -1,0 +1,4 @@
+from formula 1/n+1(n(n+1)/2+100) >= 10sqr(2)-12
+
+
+answer is: 14
